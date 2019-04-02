@@ -128,7 +128,7 @@ body
 async function snap( post, fileName ) {
 	try {
 		await page.setViewport({ width: 1200, height: 630, deviceScaleFactor: 1 });
-		await page.goto(`http://localhost:3000/views/index${i}.html`, { waitUntil: 'load', timeout: 0 });
+		await page.goto(`http://localhost:3000/views/index.html`, { waitUntil: 'load', timeout: 0 });
 		await page.screenshot({
 			path: `./images/${fileName}.jpg`,
 			type: `jpeg`
