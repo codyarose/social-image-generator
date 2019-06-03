@@ -10,13 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
     "express": "^4.16.4",
+    "express-handlebars": "^3.1.0",
     "express-pug-static": "^0.1.0",
     "imagemin": "^6.1.0",
     "imagemin-pngquant": "^7.0.0",
     "pug": "^2.0.3",
-    "puppeteer": "^1.12.2",
+    "puppeteer": "^1.17.0",
     "unirest": "^0.6.0"
   }
 }

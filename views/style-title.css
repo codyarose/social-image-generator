@@ -6,16 +6,16 @@ body {
 .container {
 	position: relative;
 	box-sizing: border-box;
-font-family: Oswald;
+	font-family: Oswald;
 	font-weight: 400;
-width: 100%;
-max-width: 1200px;
-height: 630px;
-display: flex;
-align-items: center;
+	width: 100%;
+	max-width: 1200px;
+	height: 630px;
+	display: flex;
+	align-items: center;
 	justify-content: center;
-color: #fff;
-overflow: hidden;
+	color: #fff;
+	overflow: hidden;
 	padding: 1rem 7.3rem;
 }
 

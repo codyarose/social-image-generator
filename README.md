@@ -2,7 +2,7 @@
 
 Node script that generates a jpg using Puppeteer with data from the Hubspot blog API then uploads the image to the Hubspot file manager, for use as the `og:image` of blog posts.
 
-A `config.js` file must be created with your api key in the root directory containing:
+A `config.json` file must be created with your api key in the root directory containing:
 ```
 {
 	"token": "api-key"

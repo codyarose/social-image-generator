@@ -3,3 +3,5 @@ config.json
 app-batch.js
 api.js
 views/*
+images/*
+!images/.gitkeep
