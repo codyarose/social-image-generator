@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-pug-static": "^0.1.0",
     "imagemin": "^6.1.0",
     "imagemin-pngquant": "^7.0.0",
